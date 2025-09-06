@@ -3,7 +3,7 @@ import pytesseract
 import numpy as np
 from tkinter import *
 from tkinter import filedialog, messagebox, scrolledtext
-from fpdf import FPDF, enums  # यहाँ बदलाव किया गया है
+from fpdf import FPDF, enums   
 from datetime import datetime
 import os
 import tempfile
